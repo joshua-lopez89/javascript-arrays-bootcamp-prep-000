@@ -4,9 +4,5 @@ var addElementToBeginningOfArray = [chocolateBars.upshift("foo")]
 
 
 
-var destructivelyAddElementsToBeginningOfArray = 
-chocolateBars.upshift("hershey");
-
-
 
 
